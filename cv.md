@@ -16,6 +16,11 @@ I want to learn Front-End Development in RSSchool.
 * Windows OS
 * 1C
 ## Code Example
+``` 
+function multiply(a, b){
+ return a * b
+}
+```
 ## Work experience:
 Nothing yet…
 ## Education
