@@ -1,4 +1,6 @@
 # Dzianis Stratonau
+![foto new size](https://user-images.githubusercontent.com/96048232/147859614-b29f6681-d9b6-4e71-90ae-d86f26bb22cd.jpg)
+
 ## Contacts:
 * Location: Minsk, Belarus
 * Phone: +375 (29) 704-18-79
@@ -17,7 +19,7 @@ I want to learn Front-End Development in RSSchool.
 ## Work experience:
 Nothing yet…
 ## Education
-* Belarusian National Ecomomic University,specialty _Accounting, analysis and control_
+* Belarusian National Ecomomic University, specialty _Accounting, analysis and control_
 ## Languages
  * Russian - native speaker
  * English - A1 (_I try to learn English in every possible way._)
