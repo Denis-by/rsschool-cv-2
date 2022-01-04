@@ -1,1 +1,163 @@
-style.css file
+@font-face {
+font-family: Oxygen-Bold;
+src: url("assets/fonts/Oxygen-Bold.ttf");
+}
+body {
+  font-family: Oxygen-Bold;
+    font-weight: 400;
+  line-height: 1.5;
+  color: #4d2323;
+  margin: 0;
+}
+   * {
+    box-sizing: border-box;
+      }
+  .header{
+    padding: 10px;
+  }
+  .container-menu{  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(223, 223, 223);
+    }
+    .container-main{
+      display: flex;
+      flex-direction: column;
+      background-color: rgb(223, 223, 223);
+      border: 2px solid black;
+               }
+    .container-foto{
+      display: flex;
+      flex-direction: row;
+      float: left;
+      margin: 0 10px 5px 0;
+      text-align: center;
+       }
+    .container-FIO{
+      display: flex;
+      flex-direction: column;
+    }
+    .conteiner-general{
+      display: flex;
+       flex-direction: column;
+       }
+    .container-contact {
+      display: flex;
+      flex-direction: column; 
+      flex-grow: 1;
+    }
+    .li-contact
+    {
+      list-style-type: none;
+    }
+    
+    .wrapper {
+      width: 1200px;
+      margin: 0 auto;
+      
+    }
+    .conteiner-about
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(223, 223, 223);
+      border-bottom: 3px solid black;
+      padding-top: 20px;
+      padding-bottom: 20px;
+       }
+    .about{
+      width: 280px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+         }
+    .conteiner-skills
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(223, 223, 223);
+      border-bottom: 3px solid black;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      }
+    .skills
+    {
+      width: 222px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+    }
+    .Conteiner-CodeExample
+    {
+      display: flex;
+      flex-direction: row;
+    background-color: rgb(223, 223, 223);
+    border-bottom: 3px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .code
+    {
+      width: 222px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+    }
+    .conteiner-workexperience
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(223, 223, 223);
+      border-bottom: 3px solid black;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .workexperience
+    {
+      width: 222px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+    }
+    .conteiner-Education
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(223, 223, 223);
+      border-bottom: 3px solid black;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .Education
+    {
+      width: 222px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+    }
+    .conteiner-Languages
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(223, 223, 223);
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .languages
+    {
+      width: 222px;
+      background-color: rgb(223, 223, 223);
+      padding-left: 110px;
+    }
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .container-footer
+    {
+      display: flex;
+      flex-direction: row;
+      background-color: rgb(252, 250, 250);
+      justify-content: space-around;
+      align-items:center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    
