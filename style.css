@@ -66,7 +66,7 @@ body {
 .about {
   width: 280px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 .conteiner-skills {
   display: flex;
@@ -79,7 +79,7 @@ body {
 .skills {
   width: 222px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 .Conteiner-CodeExample {
   display: flex;
@@ -90,9 +90,9 @@ body {
   padding-bottom: 20px;
 }
 .code {
-  width: 222px;
+  width: 255px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 .conteiner-workexperience {
   display: flex;
@@ -105,7 +105,7 @@ body {
 .workexperience {
   width: 222px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 .conteiner-Education {
   display: flex;
@@ -116,9 +116,9 @@ body {
   padding-bottom: 20px;
 }
 .Education {
-  width: 222px;
+  width: 260px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 .conteiner-Languages {
   display: flex;
@@ -130,7 +130,7 @@ body {
 .languages {
   width: 222px;
   background-color: rgb(223, 223, 223);
-  padding-left: 110px;
+  padding-left: 100px;
 }
 body {
   display: flex;
@@ -145,4 +145,8 @@ body {
   align-items: center;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.projects {
+  list-style-type: none;  
 }
