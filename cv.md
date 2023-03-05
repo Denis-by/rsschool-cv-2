@@ -7,13 +7,13 @@
 * Email: lexad83@gmail.com
 * GitHub: Denis-by
 ## About Me
-I am 38 years old. I work as a chief accountant.  I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I am 39 years old. I work as a chief accountant.  I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 
 I want to learn Front-End Development in RSSchool.
 ## Skills
 * HTML
 * CSS
-* Windows OS
+* JS
 * 1C
 ## Code Example
 ``` 
