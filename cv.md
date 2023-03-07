@@ -19,8 +19,8 @@ I want to learn Front-End Development in RSSchool.
 
 ## Code Example
 ``` 
-function multiply(a, b){
- return a * b
+function myFunction(a, b) {
+  return a * b;             
 }
 ```
 ## Work experience:
